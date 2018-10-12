@@ -1,0 +1,10 @@
+{
+  "name": "siincss",
+  "version": "1.0.0",
+  "description": "siinCSS Custom Framework",
+  "main": "index.js",
+  "repository": "https://github.com/blvkoblsk/siincss.git",
+  "author": "blvkoblsk <blvkoblsk@gmail.com>",
+  "license": "none",
+  "private": true
+}
